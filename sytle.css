@@ -4,11 +4,12 @@
         height: 450px;    
         display: flex;
         justify-content: flex-end;
+        color: #2f221b;
 }
 .plantacao{
         display: grid;
         justify-content: center;
         align-items: center;
         grid-template-columns: 33% 33% 33%;
-        height: 100px;
+        
 }
