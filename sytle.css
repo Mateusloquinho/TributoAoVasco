@@ -8,8 +8,8 @@
 }
 .plantacao{
         display: grid;
-    justify-content: end;
-    align-items: baseline;
+        justify-content: center;
+        align-items: center;
         grid-template-columns: 10% 10% 10%;
         
 }
