@@ -15,8 +15,8 @@
 }
 .luiz{
         display: flex;
-        justify-content: center;
-        align-items: baseline;
+    align-items: baseline;
+    justify-content: center;
 }
 .text-luma{
         display: flex;
