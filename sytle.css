@@ -6,11 +6,18 @@
         justify-content: flex-end;
         color: #2f221b;
 }
+.plantaca{
+        display: grid;
+        justify-content: center;
+        align-items: center;
+        grid-template-columns: 40% 60%
+}
 .plantacao{
         display: grid;
         justify-content: center;
         align-items: center;
         grid-template-columns: 33% 33% 33%
+
 }
 .luiz{
         display: flex;
@@ -20,6 +27,10 @@
 .text-luma{
         display: flex;
     align-items: flex-end;
+}
+
+img-planta{
+        width: 90%;
 }
 @media screen and (min-width: 1024px) {
 }
