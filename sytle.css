@@ -18,3 +18,7 @@
         justify-content: center;
         align-items: baseline;
 }
+.text-luma{
+        display: flex;
+    align-items: flex-end;
+}
