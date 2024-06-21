@@ -8,9 +8,9 @@
 }
 .plantacao{
         display: grid;
-        justify-content: center;
-        align-items: center;
-        grid-template-columns: 33% 33% 33%;
+    justify-content: end;
+    align-items: baseline;
+        grid-template-columns: 10% 10% 10%;
         
 }
 .luiz{
