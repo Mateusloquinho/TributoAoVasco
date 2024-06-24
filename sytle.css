@@ -1,3 +1,10 @@
+img-planta{
+        width: 90%;
+}
+@media screen and (min-width: 1024px) {
+}
+@media screen and (min-width: 1728px) {
+}
 .fotolegal{
         background-image: url(image\ 2.png);
         background-size: 100% 100%;
@@ -12,20 +19,70 @@
         align-items: center;
         grid-template-columns: 40% 60%
 }
-.luiz{
-        display: flex;
-    align-items: baseline;
-    justify-content: center;
-}
 .text-luma{
         display: flex;
     align-items: flex-end;
 }
+body, html{
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+}
 
-img-planta{
-        width: 90%;
-}
-@media screen and (min-width: 1024px) {
-}
-@media screen and (min-width: 1728px) {
-}
+ header{
+        background-color: white;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+ }
+
+ .luiz{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1rem 2rem;
+ }
+
+ .logo{
+        font-size: 1.5rem;
+        font-weight: bold;
+ }
+
+ .luiz2{
+        list-style: none;
+        display: flex;
+        gap: 1.5rem;
+ }
+
+ .luiz2 li{
+        margin: 0;
+ }
+
+ .luiz2 a{
+        text-decoration: none;
+        color: #333;
+        font-size: 1rem;
+        padding: 0,5rem 1rem;
+        transition: color 0,3s;
+        background-color: 0,3s;
+ }
+
+ .luiz2 a:hover {
+        color: #fff;
+        background-color: #333;
+        border-radius: 4px;
+ }
+
+ section {
+        padding: 4rem 2rem;
+ }
+
+ #HOME {
+        background-color: #e0f7fa;
+ }
+
+ #SOBRE {
+        background-color: #ffecb3;
+ }
+
+ #CONTATO {
+        background-color: #c8e6c9;
+ }
