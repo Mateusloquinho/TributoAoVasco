@@ -95,11 +95,18 @@ body, html{
         width: 32%;
         height: auto;
 }
+.text-mateus2 {
+        margin: 1.5rem 0;
+}
+.text-mateus2 p {
+        font-size: 1rem;
+        color: #666;
+        line-height: 1.5;
+}
 
  section {
         padding: 4rem 2rem;
  }
-
  #HOME {
         background-color: #e0f7fa;
  }
