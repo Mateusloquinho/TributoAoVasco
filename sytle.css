@@ -53,6 +53,41 @@ body, html{
         background-color: #333;
         border-radius: 4px;
  }
+.mateus{
+        max-width: 1200px;
+        margin: 2rem auto;
+        padding: 0 2rem;
+        text-align: center;
+}
+.HOME img{
+        width: 100%;
+        height: auto;
+}
+.text-mateus {
+        margin: 1.5rem 0;
+}
+.text-mateus p {
+        font-size: 1rem;
+        color: #666;
+        line-height: 1.5;
+}
+.BNT {
+        display: inline-block;
+}
+.img-plantas {
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        width: 40%;
+        height: 25%;
+        display: flex;
+        justify-content: space-between;
+}
+.img-plantas img {
+        width: 32%;
+        height: 100%;
+        object-fit: cover;
+}
 
  section {
         padding: 4rem 2rem;
