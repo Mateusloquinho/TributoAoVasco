@@ -19,10 +19,7 @@ img-planta{
         align-items: center;
         grid-template-columns: 40% 60%
 }
-.text-luma{
-        display: flex;
-    align-items: flex-end;
-}
+
 body, html{
         margin: 0;
         padding: 0;
