@@ -7,7 +7,7 @@ img-planta{
 }
 .fotolegal{
         background-image: url(image\ 2.png);
-        background-size: 90% 90%;
+        background-size: 90% 100%;
         height: 450px;    
         display: flex;
         justify-content: flex-end;
