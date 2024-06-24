@@ -13,11 +13,13 @@
         grid-template-columns: 40% 60%
 }
 .plantacao{
-        display: grid;
-        justify-content: center;
-        align-items: center;
-        grid-template-columns: 40% 60%
-
+       position: fixed;
+       bottom: 0;
+       right: 0%;
+       width: 40%;
+       height: 25%;
+       display: flex;
+       justify-content: space-between;
 }
 .luiz{
         display: flex;
