@@ -13,10 +13,9 @@
         grid-template-columns: 40% 60%
 }
 .plantacao{
-       bottom: 0;
        right: 0%;
-       width: 40%;
-       height: 25%;
+       width: 60%;
+       height: 30%;
        display: flex;
        justify-content: space-between;
 }
