@@ -73,20 +73,27 @@ body, html{
 }
 .BNT {
         display: inline-block;
+        padding: 0,5rem 1.5rem;
+        margin-top: 1rem;
+        background-color: #ddd;
+        color: #333;
+        text-decoration: none;
+        border-radius: 20px;
+        font-size: 1rem;
+        transition: background-color 0.3s, color 0.3s;
+}
+.BNT:hover {
+        background-color: #333;
+        color: #fff;
 }
 .img-plantas {
-        position: static;
-        bottom: 0;
-        right: 0;
-        width: 40%;
-        height: 25%;
         display: flex;
         justify-content: space-between;
+        margin-top: 2rem;
 }
 .img-plantas img {
         width: 32%;
-        height: 100%;
-        object-fit: cover;
+        height: auto;
 }
 
  section {
