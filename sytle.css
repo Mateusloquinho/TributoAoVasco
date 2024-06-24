@@ -75,7 +75,7 @@ body, html{
         display: inline-block;
 }
 .img-plantas {
-        position: fixed;
+        position: static;
         bottom: 0;
         right: 0;
         width: 40%;
