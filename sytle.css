@@ -12,13 +12,6 @@
         align-items: center;
         grid-template-columns: 40% 60%
 }
-.plantacao{
-       right: 0%;
-       width: 60%;
-       height: 30%;
-       display: flex;
-       justify-content: space-between;
-}
 .luiz{
         display: flex;
     align-items: baseline;
