@@ -7,11 +7,11 @@ img-planta{
 }
 .fotolegal{
         background-image: url(image\ 2.png);
-        background-size: 100% 100%;
+        background-size: 90% 90%;
         height: 450px;    
         display: flex;
         justify-content: flex-end;
-        color: #2f221b;
+        color: #412516;
 }
 .plantaca{
         display: grid;
