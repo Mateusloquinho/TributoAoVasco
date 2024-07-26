@@ -1,11 +1,9 @@
 img-planta{
         width: 90%;
 }
-@media screen and (min-width: 1024px) {
+.imagem{
+        width: 100%;
 }
-@media screen and (min-width: 1728px) {
-}
-
 body, html{
         margin: 0;
         padding: 0;
@@ -32,7 +30,7 @@ body, html{
  .luiz2{
         list-style: none;
         display: flex;
-        gap: 1.5rem;
+        gap: 1.0rem;
  }
 
  .luiz2 li{
